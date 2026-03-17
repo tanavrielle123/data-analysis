@@ -1,9 +1,11 @@
 # data-analysis
 For learning basic data analysis, visualisation and modelling
 
-# Transport Peak Hour Analysis
+Different datasets will be used and practiced with to analyse
 
-This mini project explores how passenger demand varies across different hours.
+# Analysis 1: Transport Peak Hour
+
+This analysis explores how passenger demand varies across different hours and what conslusions can be drawn.
 
 Skills demonstrated:
 - Python data analysis
