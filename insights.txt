@@ -1,0 +1,35 @@
+Transport Peak Hour Analysis – Insights
+
+1. Passenger demand shows two clear peak periods:
+   - Morning peak around 8am
+   - Evening peak around 6pm
+
+2. Midday demand is significantly lower, suggesting reduced commuter activity.
+
+3. This indicates a predictable commuting pattern where most passengers travel before and after work or school hours.
+
+4. Such patterns could help transport planners optimise train frequency, staffing allocation, and maintenance scheduling.
+
+
+Observations:
+
+📈 Morning spike around 8am (~9000 passengers)
+📉 Big drop late morning (~10–12pm ~2500–3000)
+📈 Gradual rise again afternoon
+📈 Even bigger spike at 6pm (~9500)
+📉 Drop again night
+
+This suggests:
+
+1. Commuter Behaviour Pattern
+- People travel to work/school in morning
+- Return home after work in evening
+- This creates bi-modal peak pattern.
+
+2. Operational Insight (Transport planners would infer):
+- trains must be more frequent at peak
+- staff deployment should match peak windows
+- maintenance should avoid peak hours
+
+
+
